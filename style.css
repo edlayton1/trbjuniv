@@ -20,6 +20,7 @@ body {font-family:Arial,Helvetica,sans-serif;font-size:12px;background:url(image
 #layoutBodyContent h1 {color:#A4A4A4;font-weight:bold;font-size:24px}
 #layoutBodyContent h2 {color:#B18904;font-weight:bold;font-size:14px;margin-top:10px}
 #layoutBodyContent h3 {color:#B18904;font-weight:bold;font-size:22px;margin-top:10px}
+#layoutBodyContent h5 {color:#B18904;font-weight:bold;font-size:20px;margin-top:10px}
 #layoutBodyContent p {color:#E6E6E6;margin-top:10px}
 #layoutBodyContent h4 {color:#B18904;margin-top:10px}
 .clearer {clear:both;height:10px}
